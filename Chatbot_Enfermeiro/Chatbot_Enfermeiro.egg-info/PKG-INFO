@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: Chatbot_Enfermeiro
+Version: 0.1.0
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Requires-Dist: Flask>=2.0.0
+Requires-Dist: pytest>=6.0.0
+Requires-Dist: mypy>=0.910

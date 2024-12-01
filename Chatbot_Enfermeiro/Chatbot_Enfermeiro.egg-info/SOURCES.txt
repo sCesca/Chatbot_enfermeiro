@@ -1,0 +1,8 @@
+pyproject.toml
+setup.py
+Chatbot_Enfermeiro.egg-info/PKG-INFO
+Chatbot_Enfermeiro.egg-info/SOURCES.txt
+Chatbot_Enfermeiro.egg-info/dependency_links.txt
+Chatbot_Enfermeiro.egg-info/entry_points.txt
+Chatbot_Enfermeiro.egg-info/requires.txt
+Chatbot_Enfermeiro.egg-info/top_level.txt
